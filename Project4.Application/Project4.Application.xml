@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project4.Application</name>
+    </assembly>
+    <members>
+        <member name="T:Project4.Application.SystemAppService">
+            <summary>
+            系统服务接口
+            </summary>
+        </member>
+        <member name="M:Project4.Application.SystemAppService.GetDescription">
+            <summary>
+            获取系统描述
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Project4.Application.SystemAppService.Test(Project4.Application.SystemService.TestClass)">
+            <summary>
+            test
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
